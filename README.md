@@ -3,6 +3,7 @@ The 113937 loan items in the Prosper loan dataset each have 81 properties, such 
 There are two major groups:
 
 1, Information about the borrower: The borrower's fundamental characteristics, such as annual income, employment status, interest rate, and loan status.
+
 2, Information on loan performance: metrics assessing the risk of the loans, including Prosper score and bank card usage, etc. To produce analyses and visualizations that are engaging and reliable, a few things needed to be fixed.
 
 Summary of Results
