@@ -7,6 +7,7 @@ There are two major groups:
 2, Information on loan performance: metrics assessing the risk of the loans, including Prosper score and bank card usage, etc. To produce analyses and visualizations that are engaging and reliable, a few things needed to be fixed.
 
 Summary of Results
+
 This study's goal is to identify the following variables that effect loan amount and borrower rate:
 
 During my research, I discovered a somewhat strong negative link between interest rate and loan size. Additionally, there are some significant and negative connections between the interest rate and the categorical/ordinal variables chosen. As an illustration, persons without jobs have more stringent credit requirements (higher rates) than those who have.The second factor is that homeowners or borrowers with collateral have cheaper rates than those without collateral (house).
@@ -16,6 +17,7 @@ The third factor is that lenders often charge lower interest rates to customers 
 I also expanded my research into loans and interest rates in comparison to the most explanatory factors.
 
 The multivariate analysis here revealed that banks apply more stringent credit requirements to customers who are in default (past due, charged-off payments) (higher interest rates). These individuals also have lower credit scores than those with high status.
+
 Another thing to note is that different rates are used depending on maturities. In other words, regardless of the prosper rating, rates for 5-year loans are typically higher than rates for loans with other maturities (with the exception of the E rating, which has rates the same for 3- and 5-year loans, and the HR rating). It goes without saying that a longer duration increases the likelihood that the operation will result in a rate increase. Of course, as is frequently stated, those with good ratings pay the lowest prices. It's interesting to note that just 3 years of loans are found in this dataset for HR ratings.
 
 Parallel to this, defaulted and charged-off loans often have a higher borrower APR compared to completed or ongoing loans for all Prosper Ratings except "A" and "AA" (good records).
